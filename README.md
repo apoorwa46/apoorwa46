@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA, Web Dev(HTML, CSS, React, JS, Node.js, Express), C, C++, Python, Java**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-website-seven-lemon.vercel.app/](https://my-portfolio-website-seven-lemon.vercel.app/)
+- 👨‍💻 My Portfolio Website is available at [https://my-portfolio-website-seven-lemon.vercel.app/](https://my-portfolio-website-seven-lemon.vercel.app/)
 
 - 💬 Ask me about **Web Dev, DSA**
 
