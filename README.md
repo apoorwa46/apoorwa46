@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Apoorwa Kumar</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
+<h3 align="center">A passionate fullstack web development and AI ML enthusiast from India</h3>
 
-- 🌱 I’m currently learning **DSA, Web Dev(HTML, CSS, React, JS, Node.js, Express), C, C++, Python, Java**
+- 🌱 I’m currently learning **DSA, Web Dev, ML, C, C++, Python, Java**
 
 - 👨‍💻 My Portfolio Website is available at [https://my-portfolio-website-seven-lemon.vercel.app/](https://my-portfolio-website-seven-lemon.vercel.app/)
 
-- 💬 Ask me about **Web Dev, DSA**
+- 💬 Ask me about **Web Dev, ML, DSA**
 
 - 📫 How to reach me **apoorwa466@gmail.com**
 
