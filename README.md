@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apoorwa Kumar</h1>
+<h1 align="center">Hi👋, I'm Apoorwa Kumar</h1>
 <h3 align="center">A passionate fullstack web development and AI ML enthusiast from India</h3>
 
 - 🌱 I’m currently learning **DSA, Web Dev, ML, C, C++, Python, Java**
