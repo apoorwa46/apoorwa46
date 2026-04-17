@@ -1,24 +1,106 @@
-<h1 align="center">Hi👋, I'm Apoorwa Kumar</h1>
-<h3 align="center">A passionate fullstack web development and AI ML enthusiast from India</h3>
+<h1 align="center">⚡ Apoorwa Kumar ⚡</h1>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI Engineer | 🧠 System Builder</h3>
 
-- 🌱 I’m currently learning **DSA, Web Dev, ML, C, C++, Python, Java**
-
-- 👨‍💻 My Portfolio Website is available at [https://apoorwa-portfolio.vercel.app/](https://apoorwa-portfolio.vercel.app/)
-
-- 💬 Ask me about **Web Dev, ML, DSA**
-
-- 📫 How to reach me **apoorwa466@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/apoorwa466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apoorwa466" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/apoorwa-kumar-479461302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apoorwa-kumar-479461302/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/apoorwa466/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/apoorwa466/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/apoorwa466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/apoorwa466" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/q44d0rgl5v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/q44d0rgl5v/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+AI+Powered+Systems;GenAI+%7C+ML+%7C+Backend+Engineering;Agentic+AI+%7C+RAG+Pipelines;Turning+Ideas+into+Scalable+Products+🚀" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## 🌌 About Me
+- 🔭 Building **AI-powered systems & real-world solutions**
+- 🤖 Working with **GenAI, LLM APIs, RAG pipelines, AI Agents**
+- 🌱 Learning **DSA, Machine Learning, System Design, Backend Scaling**
+- 💡 Interested in **AI + Automation + Scalable Architectures**
+- ⚙️ Tech Stack: `MERN` + `PostgreSQL` + `AI APIs` + `FastAPI`
+- 🎯 Goal: Become a **top-tier AI Engineer building impactful systems**
 
+---
+
+## 🧠 AI / ML Focus
+- ⚡ **GenAI Apps** → Q&A Generator, AI Summarizer, Offer Intelligence System  
+- 🔗 **RAG Pipelines** → Document-based intelligent retrieval systems  
+- 🤖 **Agentic AI Systems** → Multi-agent workflows (Loan Co-pilot, Study AI)  
+- 📊 **ML Projects** → Fraud Detection, Review Analysis  
+- 🧩 **Problem Solving** → DSA + System Design mindset  
+
+---
+
+## 🌐 Portfolio
+🔗 https://apoorwa-portfolio.vercel.app/
+
+---
+
+## 📡 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/apoorwa466"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.linkedin.com/in/apoorwa-kumar-479461302/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/apoorwa466"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.hackerrank.com/profile/apoorwa466"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,python,java,cpp,tailwind,figma,git" />
+</p>
+
+---
+
+## 🧠 AI / Data Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GenAI-LLM%20Apps-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Pipelines-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Agents-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 Coding Profiles
+<p align="center">
+  <a href="https://leetcode.com/u/q44d0rgl5v/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/apoorwa466">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apoorwa46&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorwa46&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+## Contribution Calendar
+<p align="center">
+  <img src="https://ghchart.rshah.org/0a6b3a/apoorwa46" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apoorwa46&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apoorwa46&theme=tokyonight" />
+</p>
+
+## ⚡ Current Focus
+- 🚀 Building **Agentic AI systems**
+- 🤖 Exploring **LLM orchestration (LangChain / LangGraph)**
+- 🧠 Improving **DSA + System Design for top tech roles**
+
+---
+
+## ⚡ Quote for Dev Mindset
+> "Build systems, not just projects."
+
+---
+
+<p align="center">⚡ Engineered for Impact | Powered by AI ⚡</p>
