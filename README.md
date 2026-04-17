@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Engineer | 🧠 System Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+AI+Powered+Systems;GenAI+%7C+ML+%7C+Backend+Engineering;Agentic+AI+%7C+RAG+Pipelines;Turning+Ideas+into+Scalable+Products+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+AI+Powered+Systems;GenAI+%7C+ML+%7C+Backend+Engineering;Agentic+AI+%7C+RAG+Pipelines;Turning+Ideas+into+Products+🚀" />
 </p>
 
 ---
