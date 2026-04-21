@@ -18,7 +18,7 @@
 ---
 
 ## 🧠 AI / ML Focus
-- ⚡ **GenAI Apps** → Q&A Generator, AI Summarizer, Offer Intelligence System  
+- ⚡ **GenAI Apps** → Q&A Generator, AI Summarizer  
 - 🔗 **RAG Pipelines** → Document-based intelligent retrieval systems  
 - 🤖 **Agentic AI Systems** → Multi-agent workflows (Loan Co-pilot, Study AI)  
 - 📊 **ML Projects** → Fraud Detection, Review Analysis  
