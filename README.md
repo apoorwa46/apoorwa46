@@ -12,7 +12,7 @@
 - 🤖 Working with **GenAI, LLM APIs, RAG pipelines, AI Agents**
 - 🌱 Learning **DSA, Machine Learning, System Design, Backend Scaling**
 - 💡 Interested in **AI + Automation + Scalable Architectures**
-- ⚙️ Tech Stack: `MERN` + `PostgreSQL` + `AI APIs` + `FastAPI` + `
+- ⚙️ Tech Stack: `MERN` + `PostgreSQL` + `AI APIs` + `FastAPI` + `ML`
 - 🎯 Goal: Become a **top-tier AI Engineer building impactful systems**
 
 ---
